@@ -1,12 +1,9 @@
 ### Matheus Marques
 ---
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarquex&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div style="display: inline_block"><br>
+<br/>
 <img align="right" alt="gif" src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" "/> 
-</div>
 ### Redes Sociais
 ---  
  <div>
