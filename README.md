@@ -6,7 +6,8 @@
   <img align="right" alt="i" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" width="150px" height="150px">
 </div>
 <br/>
-### Redes Sociais
+### REDES SOCIAIS
+
 ---
  <div>  
   <a href = "mailto: mmarxdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
