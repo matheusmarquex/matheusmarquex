@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <div style="display: inline_block"><br>
+  ### Redes Sociais
+---  
   <img align="right" alt="i" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" width:"50px" height: "50px">
 </div>
 
