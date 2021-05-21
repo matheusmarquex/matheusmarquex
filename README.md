@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <div style="display: inline_block"><br>
-  <img align="right" alt="i" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F796433515330238920%2F&psig=AOvVaw0AH00pFSH8Z8Vfw0xwfbuW&ust=1621716012758000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODAv4zR2_ACFQAAAAAdAAAAABAD">
+  <img align="right" alt="i" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif">
 </div>
 
 ### Redes Sociais
