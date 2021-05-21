@@ -1,7 +1,7 @@
 ### Matheus Marques
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarquex&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <img align="right" alt="gif" src="http://gph.is/2cg7iKP" width="480" height="270"/> 
 ### Redes Sociais
