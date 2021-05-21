@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmarquex&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
-  <img align="right" alt="i" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" width="250px" height="250px">
+  <img align="right" alt="i" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" width="150px" height="150px">
 </div>
 <br/>
 ### Redes Sociais
