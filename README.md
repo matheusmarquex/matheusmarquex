@@ -1,5 +1,5 @@
  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheusmarquex/d6a887ac2d42fc53a4490a1a252eec19/raw/255d37f15fbf8f47cdad7f22bab75733194b1e49/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Marques!😁</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Marques!</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmarquex&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 Front End Developer & Tech Lover.
