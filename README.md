@@ -11,11 +11,6 @@
 <br>
 ## 🛠 &nbsp;Tech Stack
 
-
-<br>
-
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-000000?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
