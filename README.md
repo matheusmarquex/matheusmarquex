@@ -8,7 +8,8 @@
 
 - 🤩 Some things I like to do: study programming, watch series and movies, read books, play basketball, watch the NBA and play video games.
 <!-- - 👨‍💻 All of my projects are available at [matheusmarquex.dev](https://matheusmarquex.dev) -->
-<br>
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
@@ -35,6 +36,8 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000?style=flat&logo=adobe%20photoshop&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-000000?style=flat&logo=figma&logoColor=white)&nbsp;
+
+
 
 <br>
 
