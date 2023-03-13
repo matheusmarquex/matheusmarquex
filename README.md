@@ -1,4 +1,4 @@
- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheusmarquex/d6a887ac2d42fc53a4490a1a252eec19/raw/255d37f15fbf8f47cdad7f22bab75733194b1e49/githubcard.svg"/>
+<!--  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheusmarquex/d6a887ac2d42fc53a4490a1a252eec19/raw/255d37f15fbf8f47cdad7f22bab75733194b1e49/githubcard.svg"/> -->
 <h1 align="left">Hi, I'm Matheus Marques!</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmarquex&color=yellow" alt="Profile views" /> </p> -->
 
@@ -44,7 +44,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=react" alt="matheusmarquex's most languages"/> -->
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=react" alt="matheusmarquex's most languages"/>
 <!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=github_dark" alt="matheusmarquex's most languages"/> -->
 </p>
 
