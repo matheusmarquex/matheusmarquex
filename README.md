@@ -2,11 +2,9 @@
 <h1 align="left">Hi, I'm Matheus Marques!</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmarquex&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Front End Developer & Tech Lover.
+- 💻 Front End Developer.
 
-- 🔭 I’m currently working at SUMMIT-BRA
-
-- 🤩 Some things I like to do: study programming, watch series and movies, read books, play basketball, watch the NBA and play video games.
+- 🏢 I’m currently working at SUMMIT-BRA
 <!-- - 👨‍💻 All of my projects are available at [matheusmarquex.dev](https://matheusmarquex.dev) -->
 <br><br>
 
