@@ -38,13 +38,13 @@
 
 
 <br>
-<!-- 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=react" alt="matheusmarquex's most languages"/> -->
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=github_dark" alt="matheusmarquex's most languages"/> -->
-<!-- </p> -->
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=react" alt="matheusmarquex's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=github_dark" alt="matheusmarquex's most languages"/>
+</p>
 
 <br>
 
