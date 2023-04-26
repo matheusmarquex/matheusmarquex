@@ -1,57 +1,48 @@
-<!--  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheusmarquex/d6a887ac2d42fc53a4490a1a252eec19/raw/255d37f15fbf8f47cdad7f22bab75733194b1e49/githubcard.svg"/> -->
-<h1 align="left">Hi, I'm Matheus Marques!</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmarquex&color=yellow" alt="Profile views" /> </p> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- 💻 Front End Developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,;+I'm+Matheus+Marques,+:%29)](https://git.io/typing-svg)
 
-- 🏢 I’m currently working at SUMMIT-BRA
-<!-- - 👨‍💻 All of my projects are available at [matheusmarquex.dev](https://matheusmarquex.dev) -->
-<br><br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-five-psi-74.vercel.app/api?username=matheusmarquex&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Marques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-five-psi-74.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-## 🛠 &nbsp;Tech Stack
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusmarquex&theme=gotham)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS&logoColor=white)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-000000?style=flat&logo=styled-components&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white)&nbsp;
-![React Query](https://img.shields.io/badge/-React%20Query-000000?style=flat&logo=react%20query&logoColor=white)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-000000?style=flat&logo=react-router&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-000000?style=flat&logo=&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/-jest-000000?style=flat&logo=jest&logoColor=white)&nbsp;
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-000000?style=flat&logo=testing-library&logoColor=white)&nbsp;
-<!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) -->
-![MySQL](https://img.shields.io/badge/mysql-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-000000?style=flat&logo=jira&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000?style=flat&logo=adobe%20photoshop&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-000000?style=flat&logo=figma&logoColor=white)&nbsp;
+### Main skills:
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-styledcomponents-0D1117?style=for-the-badge&logo=styledcomponents&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TailWind](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![ReactQuery](https://img.shields.io/badge/-React%20Query-0D1117?style=for-the-badge&logo=React%20Query&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=GraphQL&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-springboot-0D1117?style=for-the-badge&logo=springboot&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
+### Tools:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=photoshop&labelColor=0D1117)&nbsp;
 
-<br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ### Other Knowledge:
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp; -->
 
-<p align="left">
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=react" alt="matheusmarquex's most languages"/> -->
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquex&layout=compact&theme=github_dark" alt="matheusmarquex's most languages"/>
-</p>
+<!-- ### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
 
-<br>
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusmarquex}/count.svg" /></p> 
+<br></div>
 
-## 📲&nbsp;Social Links
-
-<p align="left">
-<a href="https://linkedin.com/in/matheusmarquex" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheusmarquex-000000?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
